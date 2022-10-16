@@ -1,0 +1,1 @@
+mvn clean install -DskipTests dependency:sources -DdownloadSources=true -DdownloadJavadocs=true
