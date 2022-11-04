@@ -1,1 +1,2 @@
-explorer $1
+@echo off
+explorer %*
