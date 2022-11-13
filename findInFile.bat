@@ -1,2 +1,2 @@
 @echo off
-java FindInFile.java %*
+java %~dp0FindInFile.java %*
